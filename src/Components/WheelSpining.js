@@ -5,7 +5,7 @@ import logo from "./logo.svg"
 
     // tryingToPassAProp={ logo }
 function WheelSpinning( props ){
-    console.log( "props: " , props )  //
+    // console.log( "props: " , props )  //
 
 
 
